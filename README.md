@@ -1,7 +1,7 @@
 # Research & AI Projects
 
 ## Geometry Dash AI (Reinforcement Learning)
-🔗 https://github.com/ThePickleGawd/geometry-dash-ai(https://github.com/ThePickleGawd/geometry-dash-ai)
+🔗 https://github.com/ThePickleGawd/geometry-dash-ai
 
 - Implemented reinforcement learning agents (DQN-based)
 - Designed reward functions and training pipelines
@@ -11,7 +11,7 @@
 ---
 
 ## AlphaZero for the Game of Cycles
-🔗 https://github.com/ccs-cs1l-f24/Vigyan-MLProject(https://github.com/ccs-cs1l-f24/Vigyan-MLProject)
+🔗 https://github.com/ccs-cs1l-f24/Vigyan-MLProject
 
 - Implemented AlphaZero from scratch (MCTS + self-play)
 - Applied Bayesian Optimization for hyperparameter tuning
