@@ -14,7 +14,7 @@ Developing an AlphaZero-style theorem prover that combines language-model tactic
 - Working with multi-node GPU infrastructure, model serving through vLLM and SGLang, and integration with the slime RL training framework.
 - Currently developing parallel MCTS data generation and evaluating how search and learned value estimates can guide proof discovery.
 
-### Updating the Goedel RL dataset to Lean 4.28.0, with corrected formalizations and verified proofs for every theorem in the planned release.
+### Updating the Goedel RL dataset to correct formalizations and verified proofs for every theorem in the planned release.
 
 Developing a stronger public dataset of challenging Lean problems for theorem proving and reinforcement learning.
 
@@ -22,6 +22,7 @@ Developing a stronger public dataset of challenging Lean problems for theorem pr
 - Checked that statements and proofs compile, and reviewed formalizations for unintended triviality and mismatches with the intended mathematics.
 - Adding roughly 10,000 proved problems: 5,000 designed to be easier and 5,000 designed to be harder than their source problems.
 - Building proof-generation and multi-round agentic workflows with shared Lean REPL pools and statement/proof correction.
+- Updated to Lean 4.28.0
 
 This work is ongoing; final release contents and difficulty evaluations are still being consolidated. Related work includes migrating and auditing miniF2F formalizations against their informal problem statements.
 
