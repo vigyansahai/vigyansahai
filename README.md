@@ -15,7 +15,7 @@ Developing an AlphaZero-style theorem prover that combines language-model tactic
 - Working with multi-node GPU infrastructure, model serving through vLLM and SGLang, and integration with the slime RL training framework.
 - Currently developing parallel MCTS data generation and evaluating how search and learned value estimates can guide proof discovery.
 
-### Updating the Gödel RL Dataset
+### Updating the Goedel RL Dataset
 
 Developing a stronger public dataset of challenging Lean problems for theorem proving and reinforcement learning.
 
