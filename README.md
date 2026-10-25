@@ -1,6 +1,6 @@
 # Vigyan Sahai
 
-I'm a Computer Science and Mathematics undergraduate in UCSB's College of Creative Studies and a research assistant working on AI for mathematics at UCLA. My interests include reinforcement learning, automated theorem proving, and mathematics.
+I'm a Computer Science and Mathematics undergraduate in UCSB's College of Creative Studies and a research assistant working on AI for mathematics at UCLA. My interests include reinforcement learning, automated theorem proving, and Mathematics. I would love to gain experience with all aspects of model training.
 
 Some research repositories are private. Public papers, datasets, and code are linked below where available.
 
